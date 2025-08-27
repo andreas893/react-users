@@ -93,7 +93,7 @@ Du lærer at sende data til en komponent med props, og hvordan du kan modtage og
 
 **2. Skriv en kommentar om forskellen på de tre metoder.**
 Hvilken metode synes du er mest overskuelig? Hvorfor?
-
+Den sidste metode er mest overskuelig. Det er den metode hvor du skal skrive mindts i App.jsx.
 ---
 
 ### Step 1.1: Vis alle props fra user-objektet
